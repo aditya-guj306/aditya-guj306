@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjPCwolmzNAa-JY-l2dT_v35nwnWvuHVz6XA&usqp=CAU)](https://aditya-guj306.io)
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-guj306&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-guj306" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aditya-guj306&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-guj306" /> </p>
 
 - 🌱 I’m currently learning **Azure Services**
 
