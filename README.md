@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aditya-guj306&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-guj306" /> </p>
 
-- 🌱 I’m currently learning **Azure Services**
+- 🌱 I’m currently learning **Cloud Services**
 
 - 🤝 I’m looking for help with **Cloud Computing**
 
