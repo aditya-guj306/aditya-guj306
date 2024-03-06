@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--2fS0sUh8--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/8y9m1r90a9moi4ufe6lm.png)](https://aditya-guj306.io)
+<!--[![MasterHead]([https://res.cloudinary.com/practicaldev/image/fetch/s--2fS0sUh8--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/8y9m1r90a9moi4ufe6lm.png)]-->
+[![MasterHead](https://miro.medium.com/v2/resize:fit:828/format:webp/1*pOOa0NvoNAaYug2GIjg_kg.png)](https://aditya-guj306.io)
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aditya-guj306&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-guj306" /> </p>
