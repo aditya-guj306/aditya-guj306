@@ -34,5 +34,9 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-guj306&show_icons=true&locale=en" alt="aditya-guj306" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-guj306&" alt="aditya-guj306" /></p>
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya_guj306&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
+
+### ✍ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 [![@aditya_guj306's Holopin board](https://holopin.io/api/user/board?user=aditya_guj306)](https://holopin.io/@aditya_guj306)
