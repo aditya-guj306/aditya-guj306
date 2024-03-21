@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-g-1956a3214/" height="30" width="40" /></a>
 </p>
 
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-guj306&" alt="aditya-guj306" /></p>-->
+
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
@@ -48,7 +48,8 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aditya-guj306&theme=light&hide_border=false&include_all_commits=true&count_private=false)<br/>
+<!--<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-guj306&" alt="aditya-guj306" /><br/>-->
+![](https://github-readme-stats.vercel.app/api?username=aditya-guj306&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 <!--![]("https://github-readme-stats.vercel.app/api?username=aditya-guj306&show_icons=true&locale=en")<br/>-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aditya-guj306&theme=dark&hide_border=false)<br/>
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-guj306&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)-->
