@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Cloud Services**
 
-- 🤝 I’m looking for help with **Cloud Computing**
+- 🤝 I’m looking for help with **Cloud Computing** and **Machine Learning**
 
 - 📫 How to reach me **https://www.linkedin.com/in/aditya-g-1956a3214/**
 
