@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
 
 # 📊 GitHub Stats:
-<!--<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-guj306&" alt="aditya-guj306" /><br/>-->
+<!--<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-guj306&theme=vision-friendly-dark&hide_border=false" alt="aditya-guj306"/><br/>-->
 ![](https://github-readme-stats.vercel.app/api?username=aditya-guj306&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-<!--![]("https://github-readme-stats.vercel.app/api?username=aditya-guj306&show_icons=true&locale=en")<br/>-->
+<!--[]("https://github-readme-streak-stats.vercel.app/api?username=aditya-guj306&show_icons=true&locale=en")<br/>-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aditya-guj306&theme=vision-friendly-dark&hide_border=false)<br/>
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-guj306&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-guj306&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
